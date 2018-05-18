@@ -155,6 +155,14 @@ html{
 			color: #FFF;
 		}
 
+		#logo_text h1 a .logo_colour2{
+			color: #FFF;
+		}
+
+		#logo_text a:hover .logo_colour2{
+			color: #00FF00;
+		}
+
 		#logo_text h2{
 			font-size: 120%;
 			padding: 4px 0 0 0;
@@ -397,4 +405,19 @@ html{
             color: white;
             float: left;
             font-size: 15px;
-        }
+		}
+		
+		.button {
+			background-color: rgb(76, 163, 175);
+			border: none;
+			color: white;
+			padding: 15px 25px;
+			text-align: center;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		
+		.button:hover {
+			background-color:rgb(76, 135, 175);
+			color: white;
+		}
