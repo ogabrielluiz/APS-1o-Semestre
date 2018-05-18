@@ -29,6 +29,20 @@ html{
 			padding: 15px 0 5px 0;
 		}
 
+		.h1-acerto {
+			font: normal 179% 'century gothic', arial, sans-serif;
+			color: rgb(49, 202, 11);
+			margin: 0 0 15px 0;
+			padding: 15px 0 5px 0;
+		}
+
+		.h1-erro {
+			font: normal 179% 'century gothic', arial, sans-serif;
+			color: rgb(247, 8, 0);
+			margin: 0 0 15px 0;
+			padding: 15px 0 5px 0;
+		}
+
 		h2{
 			font: normal 145% 'century gothic', arial, sans-serif;
 			color: #B60000;
